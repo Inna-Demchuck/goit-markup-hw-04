@@ -265,11 +265,6 @@ body {
     align-items: center;
 }
 
-.icon-advantage {
-    width: 70px;
-    height: 70px;
-}
-
 .item-advantage:not(:last-child) {
     margin-right: 30px;
 }
