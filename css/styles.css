@@ -391,20 +391,15 @@ body {
 
 .social-icon {
     fill: #AFB1B8;
-    width: 20px;
-    height: 20px;
 }
 
-.social-icon:hover,
-.social-icon:focus {
+.social-link-icon:hover .social-icon,
+.social-link-icon:focus .social-icon {
     fill: var(--primary-light);
 }
 
 
-/* 
-.social-icon-list:not(last-child) {
-    margin-right: 10px;
-} */
+/* regular customers */
 
 
 /* footer-logo */
