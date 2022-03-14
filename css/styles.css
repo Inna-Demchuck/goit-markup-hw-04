@@ -422,8 +422,6 @@ body {
 
 .customers-link {
     display: flex;
-    width: 170px;
-    height: 90px;
     border: 1px solid #AFB1B8;
     border-radius: 4px;
     fill: #AFB1B8;
@@ -614,6 +612,7 @@ body {
     font-size: 18px;
     line-height: 2;
     letter-spacing: 0.06em;
+    color: var(--main-color);
 }
 
 .name-portfolio {
